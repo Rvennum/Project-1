@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Upload</title>
+</head>
+<body>
+    <h1>Welcome to My Document Upload Page</h1>
+    <p>Click the link below to download my document:</p>
+    <p><a href=Project 1 Final Draft>Download My Document</a></p>
+</body>
+</html>
